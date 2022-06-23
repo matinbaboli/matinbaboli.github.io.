@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9dc6a044.css",
+    "main.js": "/static/js/main.b477d1e7.js",
+    "static/media/black-with-gold-accent-background-free-vector.webp": "/static/media/black-with-gold-accent-background-free-vector.df8a62018fa4dc1a0336.webp",
+    "index.html": "/index.html",
+    "main.9dc6a044.css.map": "/static/css/main.9dc6a044.css.map",
+    "main.b477d1e7.js.map": "/static/js/main.b477d1e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dc6a044.css",
+    "static/js/main.b477d1e7.js"
+  ]
+}
